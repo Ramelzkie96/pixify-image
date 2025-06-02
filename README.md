@@ -31,8 +31,8 @@ Whether you're a casual user looking to create aesthetic edits or a developer ex
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/Ramelzkie96/bloghub.git)
-- Live Site URL: [Live Site](https://bloghub-website.infinityfreeapp.com/index.php)
+- Solution URL: [View Code](https://github.com/Ramelzkie96/pixify-image.git)
+- Live Site URL: [Live Site](https://pixify-image.netlify.app/)
 
 ## My Process
 
